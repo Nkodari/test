@@ -1,0 +1,13 @@
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2025-01-04T04:18:13.4627843Z"}
+{"addrs":["dns:///adbridge.jumpcloud.com:443"],"level":"info","msg":"dialing","serverName":"adbridge.jumpcloud.com","target":"dns:///adbridge.jumpcloud.com","time":"2025-01-04T04:18:13.5965093Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.jumpcloud.com"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.jumpcloud.com","time":"2025-01-04T04:18:13.5975326Z"}
+{"level":"info","msg":"running system report","time":"2025-01-04T04:18:13.6097655Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2025-01-04T04:18:14.0919692Z"}
+{"level":"error","msg":"Error with PasswordSyncService:\n could not update the password for username: rinistosho: rpc error: code = NotFound desc = error getting user by username: Not Found","time":"2025-01-04T04:19:43.871929Z"}
+{"level":"info","msg":"updated password for username: rinistosho","time":"2025-01-04T04:21:14.2132452Z"}
+{"level":"error","msg":"Error with PasswordSyncService:\n could not update the password for username: sae: rpc error: code = NotFound desc = error getting user by username: Not Found","time":"2025-01-04T04:21:14.3199424Z"}
+{"level":"info","msg":"updated password for username: sae","time":"2025-01-04T04:22:44.6974192Z"}
+{"error":"rpc error: code = Unavailable desc = upstream connect error or disconnect/reset before headers. reset reason: remote connection failure, transport failure reason: delayed connect error: 111","level":"error","msg":"error with directives stream","time":"2025-01-04T04:35:13.9263236Z"}
+{"error":"rpc error: code = Unavailable desc = upstream connect error or disconnect/reset before headers. reset reason: remote connection failure, transport failure reason: delayed connect error: 111","level":"error","msg":"error with delegatedAuths stream","time":"2025-01-04T04:35:13.9269618Z"}
+{"error":"rpc error: code = Internal desc = server closed the stream without sending trailers","level":"info","msg":"transientError: without trailers","time":"2025-01-04T04:36:26.9385318Z"}
+{"error":"ERROR: Could not apply changes to JumpCloud - err='errors in agent users edit stream:\nunable to get the system_user for the objectID: : Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"SystemUserModel\"'","level":"error","msg":"could not mirror AD to JumpCloud","time":"2025-01-04T04:41:30.3549982Z"}

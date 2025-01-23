@@ -1,0 +1,417 @@
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:30:36.3781057Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:30:36.3872447Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:30:36.3872447Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:30:42.5478238Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:30:56.4287904Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:30:56.4450339Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:30:56.4450339Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:31:02.8397064Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:31:15.6554739Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:31:15.6654504Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:31:15.6654504Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:31:23.0138792Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:31:33.8639515Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:31:33.8743485Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:31:33.8748726Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:31:38.5389764Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:31:48.99472Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:31:48.9953321Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:31:48.9953321Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:31:51.0110834Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:32:01.3301158Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:32:01.330728Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:32:01.330728Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:32:02.3395623Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:32:14.4753977Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:32:14.4957208Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:32:14.4957208Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:32:17.7171386Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:32:29.6300387Z"}
+{"addrs":["dns:///adbridge-kickstart.jumpcloud.com:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.jumpcloud.com","target":"dns:///adbridge-kickstart.jumpcloud.com","time":"2024-12-16T05:32:29.6401641Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:32:29.6401641Z"}
+{"error":"rpc error: code = NotFound desc = failed to get agent by connect key: no agent found for hash of the given connect key","level":"error","msg":"registration failed\n","time":"2024-12-16T05:32:32.3832384Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:32:42.5261964Z"}
+{"addrs":["adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"registering","serverName":"adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:32:42.5268066Z","tls":{}}
+{"level":"info","msg":"registering agent","time":"2024-12-16T05:32:42.5268066Z"}
+{"level":"info","msg":"Successfully registered import agent with the service","time":"2024-12-16T05:32:46.1723366Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:32:46.2014046Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:32:46.2014046Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:32:46.2150563Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:32:46.3136867Z"}
+{"level":"info","msg":"reconnecting delegatedAuths stream","time":"2024-12-16T05:33:46.2978834Z"}
+{"level":"info","msg":"reconnecting delegatedAuths stream","time":"2024-12-16T05:34:46.3407303Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:34:57.1916954Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:34:57.1999548Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:34:57.2005651Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:34:57.2029431Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:34:57.2896632Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:35:07.833813Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:35:07.8344229Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:35:07.8344229Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:35:07.8401541Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:35:07.926357Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:35:18.5237015Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:35:18.5243183Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:35:18.5243183Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:35:18.6307483Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:35:18.7626338Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:07.019075Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:07.0196839Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:07.0196839Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:36:07.0255127Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:36:07.128674Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:17.6757662Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:17.6763768Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:17.6763768Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:36:17.6819969Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:36:17.769034Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:28.4184061Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:28.4190204Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:28.4190204Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:36:28.4249564Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:36:28.5109986Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:38.9944067Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:38.9950245Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:38.9950245Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:36:39.0105679Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:36:39.106826Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:49.5871569Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:49.5877575Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:36:49.5877575Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:36:49.5933831Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:36:49.6646585Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:00.1940072Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:00.1946283Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:00.1946283Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:37:00.2035816Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:37:00.4024052Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:10.9506936Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:10.9513057Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:10.9513057Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:37:10.9570978Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:37:11.0504688Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:21.5365256Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:21.537134Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:21.537134Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:37:21.5431653Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:37:21.6156069Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:32.1064241Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:32.1070335Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:32.1070335Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:37:32.1129623Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:37:32.185633Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:43.2371082Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:43.2377393Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:43.2377393Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:37:43.244116Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:37:43.3159694Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:53.900344Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:53.9028488Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:37:53.9028488Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:37:53.9098365Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:37:53.986468Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:04.6235969Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:04.6242106Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:04.6242106Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:38:04.6309895Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:38:04.703833Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:15.9644744Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:15.9650872Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:15.9650872Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:38:15.9708418Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:38:16.0483693Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:26.557636Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:26.5582584Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:26.5582584Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:38:26.563934Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:38:26.6501797Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:37.1177793Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:37.1184311Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:37.1184311Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:38:37.1241461Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:38:37.2005274Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:47.6735792Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:47.67419Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:47.67419Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:38:47.6805608Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:38:47.7559463Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:58.277622Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:58.2782375Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:38:58.2782375Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:38:58.2843273Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:38:58.3688892Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:08.8891632Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:08.8897909Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:08.8897909Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:39:08.895808Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:39:08.9679748Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:19.4353583Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:19.435964Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:19.435964Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:39:19.4415007Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:39:19.5212996Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:30.4795433Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:30.4801449Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:30.4801449Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:39:30.486409Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:39:30.5755795Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:41.0707969Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:41.0714136Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:41.0714136Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:39:41.0774573Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:39:41.1905253Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:51.8012687Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:51.8018807Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:51.8018807Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:39:51.8083106Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:39:51.9005198Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:52.9171147Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:52.9177452Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:39:52.9177452Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:39:52.9221197Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:39:53.0015457Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:01.0982327Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:01.0988394Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:01.0988394Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:01.1049637Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:01.2104795Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:02.3998914Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:02.4005134Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:02.4005134Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:02.4059758Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:02.4966396Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:03.7332151Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:03.7338419Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:03.7338419Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:03.7395297Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:03.8315387Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:11.6761449Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:11.6767532Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:11.6767532Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:11.6824463Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:11.7651418Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:13.0325798Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:13.0332078Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:13.0332078Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:13.0434778Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:13.1537825Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:14.437731Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:14.4383344Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:14.4383344Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:14.4429159Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:14.5272415Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:24.8419259Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:24.8537714Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:24.8537714Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:24.8589639Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:24.9829029Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:35.567677Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:35.5704279Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:35.5704279Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:35.5767638Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:35.6616727Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:46.1422439Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:46.1428659Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:46.1428659Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:46.1508079Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:46.2300748Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:57.3074771Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:57.3080828Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:40:57.3080828Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:40:57.3149324Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:40:57.4381072Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:07.9199595Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:07.920588Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:07.920588Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:41:07.9274917Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:41:08.020331Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:18.4688721Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:18.4694814Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:18.4694814Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:41:18.4750377Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:41:18.5458121Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:29.200806Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:29.2014133Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:41:29.2014133Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:41:29.2070114Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:41:29.2842427Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:03.1898083Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:03.1904316Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:03.1904316Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:42:03.1965242Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:42:03.2875378Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:20.9832511Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:20.98592Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:20.9865241Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:42:20.9913141Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:42:21.0776679Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:31.5286472Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:31.5306196Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:31.5306196Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:42:31.5359147Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:42:31.6263332Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:42.8102544Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:42.8365668Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:42:42.8365668Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:42:42.8492698Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:42:42.9685406Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:15.7992537Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:15.9232532Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:15.9232532Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:43:15.947692Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:43:16.4676485Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:34.9308892Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:34.9524271Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:34.9524271Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:43:34.9633241Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:43:35.12626Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:45.763237Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:45.7638603Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:45.7638603Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:43:45.7704861Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:43:45.8574504Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:56.6748688Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:56.6770943Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:43:56.6770943Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:43:56.6820174Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:43:56.772468Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:07.2286585Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:07.2292701Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:07.2292701Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:44:07.2349982Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:44:07.3241517Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:17.8043524Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:17.8048836Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:17.8048836Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:44:17.8109905Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:44:17.9062737Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:28.3857931Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:28.3863243Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:28.3863243Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:44:28.391902Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:44:28.4669745Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:39.4972301Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:39.4978402Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:39.4978402Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:44:39.5033359Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:44:39.5975498Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:50.064007Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:50.0677625Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:44:50.0677625Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:44:50.0721133Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:44:50.1495691Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:00.6713301Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:00.6719334Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:00.6719334Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:45:00.679758Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:45:00.7911182Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:11.3245747Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:11.3251846Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:11.3251846Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:45:11.3311353Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:45:11.4224717Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:22.32897Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:22.3296552Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:22.3296552Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:45:22.3364307Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:45:22.4161592Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:32.9574537Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:32.9580623Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:32.9580623Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:45:32.9642287Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:45:33.0562118Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:43.6496954Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:43.6503087Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:43.6503087Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:45:43.6560042Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:45:43.7350272Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:56.3145828Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:56.3221027Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:45:56.3221027Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:45:56.3308301Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:45:56.4555636Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:07.4517551Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:07.452365Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:07.452365Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:46:07.4572044Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:46:07.5650983Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:18.0676271Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:18.0682527Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:18.0682527Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:46:18.0749729Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:46:18.1694516Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:28.6476613Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:28.6482825Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:28.6482825Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:46:28.6535266Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:46:28.7444182Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:39.2316962Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:39.2323045Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:39.2323045Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:46:39.2402167Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:46:39.3261141Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:50.2095299Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:50.2101336Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:46:50.2101336Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:46:50.2156409Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:46:50.3090882Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:00.7621905Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:00.762814Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:00.762814Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:47:00.7701187Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:47:00.8441661Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:11.302325Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:11.302925Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:11.302925Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:47:11.308601Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:47:11.3994669Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:21.8327805Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:21.8333962Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:21.8333962Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:47:21.8380462Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:47:21.9278652Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:32.8246033Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:32.8252272Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:32.8252272Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:47:32.8313638Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:47:32.9158343Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:43.4075766Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:43.4081853Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:43.4081853Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:47:43.4141155Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:47:43.5240288Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:54.155151Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:54.1557741Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:47:54.1557741Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:47:54.1615622Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:47:54.2557567Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:04.7983177Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:04.7989379Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:04.7989379Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:48:04.8045245Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:48:04.8910734Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:15.5630293Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:15.5630293Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:15.5630293Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:48:15.5747546Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:48:15.6808268Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:26.2195152Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:26.22015Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:26.22015Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:48:26.2262635Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:48:26.3563628Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:36.8449158Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:36.8455528Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:36.8455528Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:48:36.8485668Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:48:36.9265212Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:47.4473724Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:47.4479924Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:47.4479924Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:48:47.4541013Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:48:47.5309863Z"}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge-kickstart.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:58.5326779Z"}
+{"addrs":["adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev:443"],"level":"info","msg":"dialing","serverName":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:58.5351295Z","tls":{"ca":"present","certs":"present","server_name":"adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev"}}
+{"level":"info","msg":"opening new connection","target":"dns:///adbridge.wok-nkodari.dev-usw2-p02.jcplatform.dev","time":"2024-12-16T05:48:58.5351295Z"}
+{"level":"info","msg":"running system report","time":"2024-12-16T05:48:58.5397597Z"}
+{"level":"info","msg":"successfully reported information to server","time":"2024-12-16T05:48:58.6240274Z"}
